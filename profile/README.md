@@ -1,4 +1,4 @@
-![ArtificialOSS Banner](AIOSSBANNAR.png)
+![ArtificialOSS Banner](https://raw.githubusercontent.com/ArtificialOSS/.github/main/profile/AIOSSBANNAR.png)
 
 # **This Organisation is reserved for [Entertainmasters's](https://github.com/Entertainmasters) artificial projects**
 
